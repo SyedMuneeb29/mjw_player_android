@@ -1,0 +1,3 @@
+include ':mjw_player'
+include ':app'
+rootProject.name = "MJW_Player"
